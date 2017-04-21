@@ -2,8 +2,6 @@
 ----
 
 <center><h1>Yara Mohajerani</h1></center>   
-
------
   
 <img style="float: center;" src="./images.dir/contact_info.png">  
 -----
