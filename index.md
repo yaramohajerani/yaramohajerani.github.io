@@ -3,7 +3,7 @@
 
 <center><h1>Yara Mohajerani</h1></center>   
   
-<img style="float: center;" src="./images.dir/contact_info.png">   
+<img style="float: center;" src="./images.dir/contact2.png">   
 
 -----
 <img style="float: right;" src="./images.dir/yara1.jpg" width="100">   
