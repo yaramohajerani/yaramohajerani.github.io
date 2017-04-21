@@ -16,8 +16,11 @@ I am a PhD Candidate in the [Velicogna Research Group](http://faculty.sites.uci.
 <center><img src="./images.dir/geoid.gif" width="300"> <br />
 <small><em>Global gravity anomalies measured by GRACE sallite (source: https://grace.jpl.nasa.gov/resources/6/)</em></small><br /><br />    
 
+<div>
 
 In Particular, I use [GRACE](https://grace.jpl.nasa.gov) (Gravity Recovery and Climate Experiment) geoid change spherical harmonic coefficients to obtain optimized regional time-series of mass change. I also work with laser altimetry data from [ICESat](https://icesat.gsfc.nasa.gov) and [Operation IceBridge](https://www.nasa.gov/mission_pages/icebridge/index.html) airborne missions to evalute elevation change on the ice sheets.  
+
+</div>
 
 <center><img src="./images.dir/grace2.jpg" width="400"/> <img src="./images.dir/icebrdige2.jpg" width="350"/> <br />
 <small>1. GRACE-FO mission (source: https://grace.jpl.nasa.gov/mission/grace-fo/)</small><br />
