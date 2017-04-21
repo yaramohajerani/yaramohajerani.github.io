@@ -6,7 +6,7 @@ Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 -----
 
-* [CV](./documents.dir/CV.pdf')  
+* [CV](https://github.com/yaramohajerani/yaramohajerani.github.io/tree/master/documents.dir/CV.pdf')  
 * [LinkedIn](https://www.linkedin.com/in/yara-mohajerani-1707bb74)   
 * [Github](https://github.com/yaramohajerani)  
 * [Department Page](https://www.ess.uci.edu/people/ymohajer)  
