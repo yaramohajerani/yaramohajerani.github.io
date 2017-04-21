@@ -1,10 +1,11 @@
+**STILL UNDER CONSTRUCTION**
+
 ---
 #<p style="text-align: center;">Yara Mohajerani
 ---
 Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website:<yaramohajerani@github.io>
 
-
-I am a PhD Candidate in the [Velicogna Research Group](http://faculty.sites.uci.edu/velicogna/) at the [University of California, Irvine] (https://uci.edu). My research focuses on using satellite gravity and altimetry data to study changes in the Greenland and Antarctic ice sheets. 
+I am a PhD Candidate in the [Velicogna Research Group](http://faculty.sites.uci.edu/velicogna/) at the [University of California, Irvine](https://uci.edu). My research focuses on using satellite gravity and altimetry data to study changes in the Greenland and Antarctic ice sheets. 
 
 <p align="center">
   <center><img src="./images.dir/geoid.gif" width="300">  
