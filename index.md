@@ -2,7 +2,8 @@
 
 ---
 
-<center># Yara Mohajerani</center>   
+<center>
+# Yara Mohajerani 
 
 
 Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website:<https://yaramohajerani.github.io>  
@@ -23,3 +24,4 @@ In Particular, I use [GRACE](https://grace.jpl.nasa.gov) (Gravity Recovery and C
 <center><img src="./images.dir/grace2.jpg" width="400"/> <img src="./images.dir/icebrdige2.jpg" width="350"/> 
 *1. GRACE-FO mission (source: https://grace.jpl.nasa.gov/mission/grace-fo/)*
 *2. source: https://www.nasa.gov/mission_pages/icebridge/multimedia/fall11/20111103_briefing_materials.html*
+</center>  
