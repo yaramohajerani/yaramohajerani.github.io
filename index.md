@@ -1,5 +1,5 @@
-*[1]*
----
+  
+----
 
 <center><h1>Yara Mohajerani</h1></center>   
 Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Website:<https://yaramohajerani.github.io>  
@@ -8,7 +8,7 @@ Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 * [Department Page](https://www.ess.uci.edu/people/ymohajer)  
 * [Twitter](https://twitter.com/YaraMohajerani)
 
----
+----
 
 > I am a PhD candidate in the [Velicogna Research Group](http://faculty.sites.uci.edu/velicogna/) in the [Earth System Science Department](https://www.ess.uci.edu) at the [University of California, Irvine](https://uci.edu). My research focuses on using satellite gravity and altimetry data to study changes in the Greenland and Antarctic ice sheets. 
 
