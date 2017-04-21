@@ -1,11 +1,9 @@
   
 ----
 
-<center><h1>Yara Mohajerani</h1></center>   
-  
-<img style="float: center;" src="./images.dir/contact2.png">   
+<center><h1>Yara Mohajerani</h1></center>    
  
-<center>Email: <ymohajer@uci.edu> &nbsp;&nbsp; | &nbsp;&nbsp; Tel: (949) 463-1944 &nbsp;&nbsp; | &nbsp;&nbsp; 2101 Croul Hall, Irvine, CA, 93697-3100 </center> 
+<center>Email: ymohajer@uci.edu &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Tel: (949) 463-1944 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 2101 Croul Hall, Irvine, CA, 93697-3100 </center> 
 
 -----
 <img style="float: right;" src="./images.dir/yara1.jpg" width="100">   
