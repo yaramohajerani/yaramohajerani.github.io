@@ -3,9 +3,9 @@
 
 <center><h1>Yara Mohajerani</h1></center>   
 Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2101 Croul Hall, Irvine, CA, 92697-3100  
-<img style="float: right;" src="./images.dir/yara1.jpg" width="96">
------
 
+-----
+<img style="float: right;" src="./images.dir/yara1.jpg" width="93"></img>   
 * [CV](https://github.com/yaramohajerani/yaramohajerani.github.io/tree/master/documents.dir/CV.pdf)  
 * [LinkedIn](https://www.linkedin.com/in/yara-mohajerani-1707bb74)   
 * [Github](https://github.com/yaramohajerani)  
