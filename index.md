@@ -2,8 +2,8 @@
 ----
 
 <center><h1>Yara Mohajerani</h1></center>   
-Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2101 Croul Hall, Irvine, CA, 92697-3100  
-
+Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tel: (949) 463-1944&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2101 Croul Hall, Irvine, CA, 92697-3100  
+<img style="float: right;" src="./images.dir/yara1.jpg" width="96">
 -----
 
 * [CV](https://github.com/yaramohajerani/yaramohajerani.github.io/tree/master/documents.dir/CV.pdf)  
@@ -14,11 +14,9 @@ Email: <ymohajer@uci.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 ----
 
-<center><img src="./images.dir/yara1.jpg" width="200"><img src="./images.dir/yara2.jpg" width="390"></center><br />
-
 > I am a PhD candidate in the [Velicogna Research Group](http://faculty.sites.uci.edu/velicogna/) in the [Earth System Science Department](https://www.ess.uci.edu) at the [University of California, Irvine](https://uci.edu). My research focuses on using satellite gravity and altimetry data to study changes in the Greenland and Antarctic ice sheets. 
 
-<center><img src="./images.dir/geoid.gif" width="300"><br />
+<center><img src="./images.dir/geoid.gif" width="320"><br />
 <small><i>Global gravity anomalies measured by GRACE sallite (source: https://grace.jpl.nasa.gov/resources/6/)</i></small></center><br />   
 
 > In Particular, I use [GRACE](https://grace.jpl.nasa.gov) (Gravity Recovery and Climate Experiment) geoid change spherical harmonic coefficients to obtain optimized regional time-series of mass change. I also work with laser altimetry data from [ICESat](https://icesat.gsfc.nasa.gov) and [Operation IceBridge](https://www.nasa.gov/mission_pages/icebridge/index.html) airborne missions ([ATM](http://nsidc.org/data/ilatm2) and [LVIS](https://nsidc.org/data/docs/daac/icebridge/ilvis2/) to evalute elevation change on the ice sheets. We also use regional and global climate models to further delve into the processes responsible for ice sheet mass change.  
