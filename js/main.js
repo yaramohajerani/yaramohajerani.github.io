@@ -27,9 +27,9 @@
 	var fullHeight = function() {
 
 		if ( !isMobile.any() ) {
-			$('.js-fullheight').css('height', $(window).height()*0.6);
+			$('.js-fullheight').css('height', $(window).height()*0.5);
 			$(window).resize(function(){
-				$('.js-fullheight').css('height', $(window).height()*0.6);
+				$('.js-fullheight').css('height', $(window).height()*0.5);
 			});
 		}
 	};
